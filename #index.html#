@@ -38,9 +38,9 @@
 
         <div class="row banner">
            <div class="banner-text">
-              <h1 class="responsive-headline">Hi, I'm Ronn Jacob<span class="blinker">|</span></h1>
-              <h3>A <span>software developer</span> and <span>web developer</span> who loves writing
-                 code as much as he loves reading books on space-time sci-fi.
+              <h1 class="responsive-headline">Hi, I'm Prakash Rajwar<span class="blinker">|</span></h1>
+              <h3>A <span>technical writer</span> who loves writing
+                 documents as much as he loves reading books on space-time sci-fi.
                  Let's <a class="smoothscroll" href="#about">start scrolling</a>
               and learn more <a class="smoothscroll" href="#about">about me</a>.</h3>
               <hr />
