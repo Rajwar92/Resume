@@ -1,6 +1,6 @@
 <h2 align="center">
   Technical Writer Portfolio<br/>
-  <a href="[https://prakashrajwar.vercel.app/](https://resume-f19752yub-rajwar92s-projects.vercel.app)" target="_blank">prakashrajwar.com</a>
+  <a href="https://prakashrajwar.vercel.app/" target="_blank">prakashrajwar.com</a>
 </h2>
 <div align="center">
   <img alt="Portfolio Preview" src="./Images/portfolio-preview.png" />
