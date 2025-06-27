@@ -17,7 +17,7 @@ function AboutCard() {
             Aeronautics, Dehradun.
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+            Apart from Writing, some other activities that I love to do!
           </p>
           <ul>
             <li className="about-activity">
