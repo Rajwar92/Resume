@@ -1,30 +1,33 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
 import {
-  SiVisualstudiocode,
-  SiPostman,
-  SiSlack,
-  SiVercel,
-  SiMacos,
+  SiJira,
+  SiConfluence,
+  SiMicrosoftoffice,
 } from "react-icons/si";
+import { FaFileAlt, FaFilePdf } from "react-icons/fa";
+import { DiGit } from "react-icons/di";
 
 function Toolstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
-        <SiMacos />
+        <SiMicrosoftoffice title="Microsoft Office" />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiVisualstudiocode />
+        <FaFileAlt title="Oxygen XML Editor" />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiPostman />
+        <SiJira title="JIRA" />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiSlack />
+        <SiConfluence title="Confluence" />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiVercel />
+        <FaFilePdf title="PDF Documentation" />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiGit title="Version Control" />
       </Col>
     </Row>
   );
